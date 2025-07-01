@@ -1,0 +1,51 @@
+# Visual Studio 
+.vs/
+*.com
+*.lib
+*.ncb
+*.sdf
+*.suo
+*.user
+*.config
+*.obj
+*.bin
+*.dll
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Packages
+*.nupkg
+# *.snupkg
+# *.symbols.nupkg
+
+# IDE files
+.idea/
+.vscode/
+
+# Rider
+.idea/
+*.sln.DotSettings.user
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+*.user
+*.bak
+*.log
+*.sql
+*.zip
+*.rar
+*.7z
+*.gz
+*.tar
+*.tmp
+*.temp 

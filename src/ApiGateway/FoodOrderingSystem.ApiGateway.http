@@ -1,0 +1,6 @@
+@FoodOrderingSystem.ApiGateway_HostAddress = http://localhost:5151
+
+GET {{FoodOrderingSystem.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

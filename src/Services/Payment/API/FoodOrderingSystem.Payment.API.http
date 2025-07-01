@@ -1,0 +1,6 @@
+@FoodOrderingSystem.Payment.API_HostAddress = http://localhost:5206
+
+GET {{FoodOrderingSystem.Payment.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

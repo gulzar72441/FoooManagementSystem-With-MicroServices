@@ -1,0 +1,6 @@
+@FoodOrderingSystem.Review.API_HostAddress = http://localhost:5055
+
+GET {{FoodOrderingSystem.Review.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
